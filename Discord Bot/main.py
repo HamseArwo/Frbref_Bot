@@ -11,6 +11,6 @@ async def main():
     await client.load_extension("assist")
     await client.load_extension("cleansheet")
 
-    await client.start("MTEzNTYxOTY0MzQ5OTg4NDYyNg.G-PdbQ.rewcunI_E-K9q5UBiUgzUAOd2ley85sNdRbwKA")
+    await client.start("BOT TOKEN")
 
 asyncio.run(main())
